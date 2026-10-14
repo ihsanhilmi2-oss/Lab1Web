@@ -19,47 +19,47 @@ Mempelajari dasar-dasar HTML, mulai dari pembuatan paragraf hingga menggabungkan
 
 1. **Membuat Paragraf**  
    Menggunakan tag `<p>` untuk membuat paragraf pada halaman web.
-   Hasil :
-   <img src="Screenshots/MembuatParagraf.png"
+   **Hasil:** 
+   ![Hasil Membuat Paragraf](Screenshots/MembuatParagraf.png)
 
 2. **Menambahkan Judul**  
    Menggunakan tag heading `<h1>` sampai `<h6>` untuk membuat judul dan subjudul.
-   Hasil :
-   <img src="Screenshots/MenambahkanJudul.png"
+   **Hasil:** 
+   ![Hasil Menambahkan Judul](Screenshots/MenambahkanJudul.png)
 3. **Memformat Teks**  
    Menggunakan tag seperti `<b>`, `<strong>`, `<i>`, `<em>`, dan `<u>` untuk memberikan format pada teks.
-   Hasil:
-   <img src="Screenshots/MemformatTeks.png"
+   **Hasil:**
+   ![Hasil Memformat Teks](Screenshots/MemformatTeks.png)
 
 4. **Menyisipkan Gambar**  
    Menggunakan tag `<img>` untuk menampilkan gambar pada halaman web.
-   Hasil:
-   <img src="Screenshots/MenambahkanGambar.png"
+   **Hasil:**
+   ![Hasil Menyisipkan Gambar](Screenshots/MenambahkanGambar.png)
 
 5. **Mengatur Ukuran Gambar**  
    Menggunakan atribut `width` dan `height` untuk mengatur ukuran gambar.
-   Hasil :
-   <img src="Screenshots/MenambahkanGambar.png"
+   **Hasil:** 
+   ![Hasil Mengatur Ukuran Gambar](Screenshots/MenambahkanGambar.png)
 
 6. **Menambahkan Hyperlink**  
    Menggunakan tag `<a>` dengan atribut `href` untuk membuat tautan ke halaman lain atau website eksternal.
-   Hasil :
-   <img src="Screenshots/MenambahkanHyperlink.png"
+   **Hasil:**
+   ![Hasil Menambahkan Hyperlink](Screenshots/MenambahkanHyperlink.png)
 
 7. **Menambahkan List**  
    Menggunakan tag `<ul>`, `<ol>`, dan `<li>` untuk membuat daftar tidak berurutan maupun berurutan.
-   Hasil :
-   <img src="Screenshots/MenambahkanList.png"
+   **Hasil:**
+   ![Hasil Menambahkan List](Screenshots/MenambahkanList.png)
 
 8. **Menambahkan Komentar**  
    Menggunakan sintaks `<!-- komentar -->` untuk menambahkan catatan pada kode HTML yang tidak ditampilkan di halaman web.
-   Hasil :
-   <img src="Screenshots/MenambahkanKomentar.png"
+   **Hasil:**
+   ![Hasil Menambahkan Komentar](Screenshots/MenambahkanKomentar.png)
 
 9. **Menggabungkan Semua Elemen HTML**  
    Menggabungkan paragraf, judul, format teks, gambar, hyperlink, list, dan komentar ke dalam satu halaman web sederhana.
-   Hasil :
-   <img src="Screenshots/MenggabungkanAllElemen.png"
+   **Hasil:**
+   ![Hasil Menggabungkan Semua Elemen](Screenshots/MenggabungkanAllElemen.png)
 
 
 ## Tools yang Digunakan
